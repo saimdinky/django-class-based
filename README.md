@@ -1,5 +1,14 @@
 # 🚀 Django Class-Based Views
 
+[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-5.0.4-green.svg)](https://www.djangoproject.com/)
+[![Django REST Framework](https://img.shields.io/badge/DRF-3.15.1-red.svg)](https://www.django-rest-framework.org/)
+[![SimpleJWT](https://img.shields.io/badge/SimpleJWT-5.3.0-orange.svg)](https://github.com/jazzband/djangorestframework-simplejwt)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue.svg)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-7.0+-red.svg)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/Docker-Compose-blue.svg)](https://www.docker.com/)
+[![Gunicorn](https://img.shields.io/badge/Gunicorn-22.0.0-green.svg)](https://gunicorn.org/)
+
 A comprehensive, production-ready Django REST API built with class-based views, JWT authentication, role-based permissions, and modern development practices. This project demonstrates enterprise-grade authentication and authorization functionality using Django's class-based view architecture.
 
 ## 📋 Table of Contents
